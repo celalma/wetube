@@ -8,7 +8,7 @@ Using useful extensions created by [SharkPool](https://sharkpools-extensions.ver
 ## But how to use it?
 It's very simple. Dowload the *WeTube.html ( this file is not yet present in th repositiory. It will be added udring beta)* file and execute it **or** download the WeTube.sb3 file and run it.
 
-### This app is in very early developpement, expect some bugs, and incoherrences. 
+### This app is in very early developpement, expect some bugs, and inconstistencies. 
 It is even possible that the app doesn't work at all depending on when you downloaded it.
 
 ## Liscence
